@@ -5,7 +5,7 @@
 ### EU
 
 - [NIS2 (2022/2555)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022L2555-20221227)
-- [Genomförandeförordning (2024/2690) för riskhanteringsåtgärder för domänhanterare mm](https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj/swe#)
+- [Genomförandeförordning (2024/2690) för riskhanteringsåtgärder för leverantörer av DNS-tjänster, registreringsenheter för toppdomäner, leverantörer av molntjänster m.fl.](https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj/swe#)
 
 ### Sverige
 
@@ -14,7 +14,7 @@
   - [Anmälan och identifiering (remiss)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MSB,%20Myndigheten%20f%C3%B6r%20samh%C3%A4llsskydd%20och%20beredskap/NIS2/Remiss%20f%C3%B6reskrifter/Anm%C3%A4lan%20och%20identifiering/foreskrifter-om-anmalan-och-identifiering-remissversion.pdf?CT=1765137211388&OR=ItemsView)
   - [Incidentrapportering och informationsskyldighet (remiss)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MSB,%20Myndigheten%20f%C3%B6r%20samh%C3%A4llsskydd%20och%20beredskap/NIS2/Remiss%20f%C3%B6reskrifter/Incidentrapportering/msb-2025-13324-foreskrifter-remiss-foreskrifter-om-incidentrapportering-och-informati.pdf?CT=1765137260976&OR=ItemsView)
   - [Säkerhetsåtgärder och utbildning (remiss)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MSB,%20Myndigheten%20f%C3%B6r%20samh%C3%A4llsskydd%20och%20beredskap/NIS2/Remiss%20f%C3%B6reskrifter/S%C3%A4kerhets%C3%A5tg%C3%A4rder%20och%20utbildning/msb-2025-13269--foreskrifter-remiss-foreskrifter-om-sakerhetsatgarder-och.pdf?CT=1765137309855&OR=ItemsView)
-
+  - Mapp: `C:\Users\JonasRoslund\Ideno AB\Delat - Documents\Bibliotek\MSB, Myndigheten för samhällsskydd och beredskap\NIS2\Remiss föreskrifter`
 ### Lagstiftningsprocess
 
 - Utredning Nya regler om cybersäkerhet
