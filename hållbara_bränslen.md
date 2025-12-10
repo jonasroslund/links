@@ -21,6 +21,7 @@
 - Lagstiftningsprocess
   - [Betänkande Nya regler för datacenter och hållbara bränslen samt en ny reduktionsplikt (2024/25:MJU17)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/nya-regler-for-datacenter-och-hallbara-branslen_hc01mju17/)
   - [Remiss av promemorian Anmälningsplikt för skogsbruksåtgärder i urskog och gammal skog m.m.](https://www.regeringen.se/remisser/2025/06/remiss-av-promemoria-anmalningsplikt-for-skogsbruksatgarder-i-urskog-och-gammal-skog-m.m)
+    - [Pressmeddelande](https://www.regeringen.se/pressmeddelanden/2025/11/regeringen-infor-en-fortydligad-samradsplikt-for-skogsbruksatgarder-i-urskog-och-gammal-skog/)
 - Inaktuella
     - [Hållbarhetsförordningen (2011:1088)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20111088-om-hallbarhetskriterier-for_sfs-2011-1088/)
     - [Hållbarhetsföreskrifterna (STEMFS 2021:7)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Lag%20och%20förordning/STEMFS%202021;7%20Hållbarhetsföreskrifterna.pdf?CT=1751356119794&OR=ItemsView&wdOrigin=OFFICE-OFFICE-METAOS.FILEBROWSER.FILES-SITES-FOLDER)
