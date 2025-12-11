@@ -18,6 +18,8 @@
 - Vägledning
     - [Vägledning hållbarhetskriterier (ER 2021:33)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Energimyndigheten/ER%202021_33%20Vägledning%20gällande%20regelverket%20om%20hållbarhetskriterier%20för%20biodrivmedel%20och%20biobränslen.pdf)
     - [PM beräkning GHG-utsläpp (ER 2021:33-komplement)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Energimyndigheten/PM%20för%20beräkningar%20av%20växthusgasutsläpp,%20komplement%20till%20ER%202021_33.pdf?CT=1725453299953&OR=ItemsView)
+- Närliggande regelverk
+  - [Förordning (2025:1037) om ändring i förordningen (1998:904) om anmälan för samråd](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Gemensamt/HBK/2025/Uppdaterad%20lagstiftning/Urskog%20och%20gammal%20skog/SFS2025-1037.pdf?CT=1765489529359&OR=ItemsView)
 - Lagstiftningsprocess
   - [Betänkande Nya regler för datacenter och hållbara bränslen samt en ny reduktionsplikt (2024/25:MJU17)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/nya-regler-for-datacenter-och-hallbara-branslen_hc01mju17/)
   - [Remiss av promemorian Anmälningsplikt för skogsbruksåtgärder i urskog och gammal skog m.m.](https://www.regeringen.se/remisser/2025/06/remiss-av-promemoria-anmalningsplikt-for-skogsbruksatgarder-i-urskog-och-gammal-skog-m.m)
