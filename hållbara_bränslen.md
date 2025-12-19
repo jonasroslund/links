@@ -42,4 +42,6 @@
   - [Mall för kontrollsystem för anläggningsbesked](https://www.energigas.se/publikationer/mall-for-kontrollsystem-for-anlaggningsbesked/)
 - GHG-beräkning
   - [BioGrace-II GHG calculation tool](https://www.biograce.net/biograce2/content/ghgcalculationtool_electricityheatingcooling/overview)
-  - [Sea Distances - Beräkning av transportsträcka till sjöss](https://sea-distances.org/)
+  - Avståndsberäkning
+    - [Sea Distances](https://sea-distances.org/)
+    - [Sea Rates - Till sjöss och lands](https://www.searates.com/distance-time/)
