@@ -40,5 +40,6 @@
   - [A-länder](https://energiavirasto.fi/sv/hallbarhetskriterier#lander_som_uppfylls_hallbarhetskriterier_for_skogsbiomassa)
 - Energigas Sverige
   - [Mall för kontrollsystem för anläggningsbesked](https://www.energigas.se/publikationer/mall-for-kontrollsystem-for-anlaggningsbesked/)
-- BioGrace
+- GHG-beräkning
   - [BioGrace-II GHG calculation tool](https://www.biograce.net/biograce2/content/ghgcalculationtool_electricityheatingcooling/overview)
+  - [Sea Distances - Beräkning av transportsträcka till sjöss](https://sea-distances.org/)
