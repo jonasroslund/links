@@ -4,8 +4,8 @@
 
 - [Förnybartdirektivet (2018/2001)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02018L2001-20240716)
 - Genomförandeförordningar
-    - [Verifiering av hållbarhet, minskade GHG-utsläpp, ILUC(2022/996) ](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022R0996-20250224)
-    - [Verifiering av skogsbränsle (2022:2448)](https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:32022R2448)
+  - [Verifiering av hållbarhet, minskade GHG-utsläpp, ILUC(2022/996) ](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022R0996-20250224)
+  - [Verifiering av skogsbränsle (2022:2448)](https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:32022R2448)
 - Delegerade akter
   - [GHG-beräkning (2023/1185)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022R0996-20250224)
 - [Frivilliga certifieringssystem](https://energy.ec.europa.eu/topics/renewable-energy/bioenergy/voluntary-schemes_en)
@@ -26,9 +26,9 @@
   - [Remiss av promemorian Anmälningsplikt för skogsbruksåtgärder i urskog och gammal skog m.m.](https://www.regeringen.se/remisser/2025/06/remiss-av-promemoria-anmalningsplikt-for-skogsbruksatgarder-i-urskog-och-gammal-skog-m.m)
     - [Pressmeddelande](https://www.regeringen.se/pressmeddelanden/2025/11/regeringen-infor-en-fortydligad-samradsplikt-for-skogsbruksatgarder-i-urskog-och-gammal-skog/)
 - Inaktuella
-    - [Hållbarhetsförordningen (2011:1088)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20111088-om-hallbarhetskriterier-for_sfs-2011-1088/)
-    - [Hållbarhetsföreskrifterna (STEMFS 2021:7)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Lag%20och%20förordning/STEMFS%202021;7%20Hållbarhetsföreskrifterna.pdf?CT=1751356119794&OR=ItemsView&wdOrigin=OFFICE-OFFICE-METAOS.FILEBROWSER.FILES-SITES-FOLDER)
-    - [Hållbarhetsföreskrifterna (STEMFS 2011:2)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/%C3%84mnesomr%C3%A5den/Hållbara%20bränslen/Lag%20och%20förordning/STEMFS%202011;2%20konsoliderad%20till%202021;6.pdf?CT=1764946227739&OR=ItemsView)
+  - [Hållbarhetsförordningen (2011:1088)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20111088-om-hallbarhetskriterier-for_sfs-2011-1088/)
+  - [Hållbarhetsföreskrifterna (STEMFS 2021:7)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Lag%20och%20förordning/STEMFS%202021;7%20Hållbarhetsföreskrifterna.pdf?CT=1751356119794&OR=ItemsView&wdOrigin=OFFICE-OFFICE-METAOS.FILEBROWSER.FILES-SITES-FOLDER)
+  - [Hållbarhetsföreskrifterna (STEMFS 2011:2)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/%C3%84mnesomr%C3%A5den/Hållbara%20bränslen/Lag%20och%20förordning/STEMFS%202011;2%20konsoliderad%20till%202021;6.pdf?CT=1764946227739&OR=ItemsView)
 
 ## Skatteverket
 
@@ -42,4 +42,3 @@
   - [Mall för kontrollsystem för anläggningsbesked](https://www.energigas.se/publikationer/mall-for-kontrollsystem-for-anlaggningsbesked/)
 - BioGrace
   - [BioGrace-II GHG calculation tool](https://www.biograce.net/biograce2/content/ghgcalculationtool_electricityheatingcooling/overview)
-
