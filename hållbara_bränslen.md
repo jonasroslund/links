@@ -16,8 +16,9 @@
 - [Hållbarhetsförordningen (2025:588)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-2025588-om-hallbarhetskriterier-for_sfs-2025-588/)
 - [Hållbarhetsföreskrifterna (STEMFS 2025:2)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Lag%20och%20förordning/STEMFS%202025;2%20Hållbarhetsföreskrifterna.pdf)
 - Vägledning
-    - [Vägledning hållbarhetskriterier (ER 2021:33)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Energimyndigheten/ER%202021_33%20Vägledning%20gällande%20regelverket%20om%20hållbarhetskriterier%20för%20biodrivmedel%20och%20biobränslen.pdf)
-    - [PM beräkning GHG-utsläpp (ER 2021:33-komplement)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Energimyndigheten/PM%20för%20beräkningar%20av%20växthusgasutsläpp,%20komplement%20till%20ER%202021_33.pdf?CT=1725453299953&OR=ItemsView)
+  - [Vägledning hållbarhetskriterier (ER 2021:33)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Energimyndigheten/ER%202021_33%20Vägledning%20gällande%20regelverket%20om%20hållbarhetskriterier%20för%20biodrivmedel%20och%20biobränslen.pdf)
+  - [PM beräkning GHG-utsläpp (ER 2021:33-komplement)](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Energimyndigheten/PM%20för%20beräkningar%20av%20växthusgasutsläpp,%20komplement%20till%20ER%202021_33.pdf?CT=1725453299953&OR=ItemsView)
+  - [Svensk skogsbiomassa - Vägledning för bedömning av A-nivå, v1](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Energimyndigheten/Riskbaserad%20bedömning%20svensk%20skogsbiomassa%20v1%202025-11-25.pdf)
 - Närliggande regelverk
   - [Förordning (2025:1037) om ändring i förordningen (1998:904) om anmälan för samråd](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Gemensamt/HBK/2025/Uppdaterad%20lagstiftning/Urskog%20och%20gammal%20skog/SFS2025-1037.pdf?CT=1765489529359&OR=ItemsView)
 - Lagstiftningsprocess
