@@ -9,9 +9,10 @@
 
 ### Sverige
 
-- [Cybersäkerhetslagen (prop)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/ett-starkt-skydd-for-natverks-och_hd0328/)
+- [Cybersäkerhetslagen (2025:1506)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetslag-20251506_sfs-2025-1506/)
+- [Cybersäkerhetsförordningen (2025:1507)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/cybersakerhetsforordning-20251507_sfs-2025-1507/)
 - Föreskrifter
-  - [Anmälan och identifiering (remiss)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MSB,%20Myndigheten%20f%C3%B6r%20samh%C3%A4llsskydd%20och%20beredskap/NIS2/Remiss%20f%C3%B6reskrifter/Anm%C3%A4lan%20och%20identifiering/foreskrifter-om-anmalan-och-identifiering-remissversion.pdf?CT=1765137211388&OR=ItemsView)
+  - [Anmälan och identifiering (MCFFS 2026:1)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MCF,%20Myndigheten%20f%C3%B6r%20civilt%20f%C3%B6rsvar/Cybers%C3%A4kerhet/F%C3%B6reskrifter/MCFFS%202026-1%20Anm%C3%A4lan%20och%20identifiering%20v%C3%A4sentliga%20och%20viktiga%20verksamhetsut%C3%B6vare.pdf?CT=1768552293365&OR=ItemsView)
   - [Incidentrapportering och informationsskyldighet (remiss)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MSB,%20Myndigheten%20f%C3%B6r%20samh%C3%A4llsskydd%20och%20beredskap/NIS2/Remiss%20f%C3%B6reskrifter/Incidentrapportering/msb-2025-13324-foreskrifter-remiss-foreskrifter-om-incidentrapportering-och-informati.pdf?CT=1765137260976&OR=ItemsView)
   - [Säkerhetsåtgärder och utbildning (remiss)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MSB,%20Myndigheten%20f%C3%B6r%20samh%C3%A4llsskydd%20och%20beredskap/NIS2/Remiss%20f%C3%B6reskrifter/S%C3%A4kerhets%C3%A5tg%C3%A4rder%20och%20utbildning/msb-2025-13269--foreskrifter-remiss-foreskrifter-om-sakerhetsatgarder-och.pdf?CT=1765137309855&OR=ItemsView)
   - Mapp: `C:\Users\JonasRoslund\Ideno AB\Delat - Documents\Bibliotek\MSB, Myndigheten för samhällsskydd och beredskap\NIS2\Remiss föreskrifter`
