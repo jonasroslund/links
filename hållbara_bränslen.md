@@ -7,7 +7,7 @@
   - [Verifiering av hållbarhet, minskade GHG-utsläpp, ILUC(2022/996) ](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022R0996-20250224)
   - [Verifiering av skogsbränsle (2022:2448)](https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:32022R2448)
 - Delegerade akter
-  - [GHG-beräkning (2023/1185)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022R0996-20250224)
+  - [GHG-beräkning (2023/1185)](https://eur-lex.europa.eu/eli/reg_del/2023/1185/oj/eng)
 - [Frivilliga certifieringssystem](https://energy.ec.europa.eu/topics/renewable-energy/bioenergy/voluntary-schemes_en)
   
 ## Sverige
