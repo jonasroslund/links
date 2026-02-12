@@ -9,6 +9,8 @@
 - Delegerade akter
   - [GHG-beräkning RCF och RFNBO (2023/1185)](https://eur-lex.europa.eu/eli/reg_del/2023/1185/oj/eng)
 - [Frivilliga certifieringssystem](https://energy.ec.europa.eu/topics/renewable-energy/bioenergy/voluntary-schemes_en)
+- Underlagsrapporter
+  - [JRC-rapport Solid and gaseous bioenergy pathways - input values and GHG emissions](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Gemensamt/HBK/2026/GHG-ber%C3%A4kning/JRC-rapport/solid%20and%20gaseous%20bioenergy%20pathways-LD1A27215ENN.pdf)
   
 ## Sverige
 
