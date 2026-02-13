@@ -23,6 +23,7 @@
   - [Svensk skogsbiomassa - Vägledning för bedömning av A-nivå, v1](https://idenoab.sharepoint.com/sites/Internt/Delade%20dokument/Ämnesområden/Hållbara%20bränslen/Energimyndigheten/Riskbaserad%20bedömning%20svensk%20skogsbiomassa%20v1%202025-11-25.pdf)
 - Närliggande regelverk
   - [Förordning (2025:1037) om ändring i förordningen (1998:904) om anmälan för samråd](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Gemensamt/HBK/2025/Uppdaterad%20lagstiftning/Urskog%20och%20gammal%20skog/SFS2025-1037.pdf?CT=1765489529359&OR=ItemsView)
+  - [Skogsstyrelsens föreskrifter om vissa kriterier för gammal skog (SKSFS 2025:4)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/Skogsstyrelsen/Skogsstyrelsens%20f%C3%B6reskrifter%20(SKSFS)/sksfs-2025-4-skogsstyrelsens-foreskrifter-om-vissa-kriterier-for-gammal-skog.pdf)
 - Lagstiftningsprocess
   - [Betänkande Nya regler för datacenter och hållbara bränslen samt en ny reduktionsplikt (2024/25:MJU17)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/nya-regler-for-datacenter-och-hallbara-branslen_hc01mju17/)
   - [Remiss av promemorian Anmälningsplikt för skogsbruksåtgärder i urskog och gammal skog m.m.](https://www.regeringen.se/remisser/2025/06/remiss-av-promemoria-anmalningsplikt-for-skogsbruksatgarder-i-urskog-och-gammal-skog-m.m)
