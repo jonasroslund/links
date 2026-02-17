@@ -1,4 +1,4 @@
-# Informationssäkerhet
+# Cybersäkerhet och informationssäkerhet
 
 ## Lagstiftning
 
