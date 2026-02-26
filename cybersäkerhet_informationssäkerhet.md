@@ -16,13 +16,13 @@
   - [Incidentrapportering och informationsskyldighet (remiss)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MSB,%20Myndigheten%20f%C3%B6r%20samh%C3%A4llsskydd%20och%20beredskap/NIS2/Remiss%20f%C3%B6reskrifter/Incidentrapportering/msb-2025-13324-foreskrifter-remiss-foreskrifter-om-incidentrapportering-och-informati.pdf?CT=1765137260976&OR=ItemsView)
   - [Säkerhetsåtgärder och utbildning (remiss)](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/MSB,%20Myndigheten%20f%C3%B6r%20samh%C3%A4llsskydd%20och%20beredskap/NIS2/Remiss%20f%C3%B6reskrifter/S%C3%A4kerhets%C3%A5tg%C3%A4rder%20och%20utbildning/msb-2025-13269--foreskrifter-remiss-foreskrifter-om-sakerhetsatgarder-och.pdf?CT=1765137309855&OR=ItemsView)
   - Mapp: `C:\Users\JonasRoslund\Ideno AB\Delat - Documents\Bibliotek\MSB, Myndigheten för samhällsskydd och beredskap\NIS2\Remiss föreskrifter`
+
 ### Lagstiftningsprocess
 
 - Utredning Nya regler om cybersäkerhet
   - [Tilläggsdirektiv till Utredningen om genomförande av NIS2 och CER (Fö 2023:01)](https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2024/01/dir.-20243)
   - [Delbetänkande SOU 2024:18](https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2024/03/sou-202418/)
   - [Remiss för SOU 2024:18](https://www.regeringen.se/remisser/2024/03/remiss-for-sou-202418-delbetankandet-nya-regler-om-cybersakerhet/)
-
 
 ## Stödmaterial
 
@@ -34,4 +34,4 @@
   - [Cybersäkerhetskollen](https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/arbeta-systematiskt-med-informationssakerhet-och-cybersakerhet/cybersakerhetskollen/)
   - [Övning - Informationssäkerhet för ledningen](https://www.msb.se/sv/publikationer/ovning--informationssakerhet-for-ledningen/)
 - Webbinarier
-    - [Webbinarieserien Informationssäkerhet i fokus](https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/kurser-och-natverk-inom-informationssakerhet/webbinarier/)
+  - [Webbinarieserien Informationssäkerhet i fokus](https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/kurser-och-natverk-inom-informationssakerhet/webbinarier/)
