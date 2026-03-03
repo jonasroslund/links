@@ -2,9 +2,9 @@
 
 ## EU
 
-- [Förnybartdirektivet (2018/2001)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02018L2001-20240716)
+- [Förnybartdirektivet (2018/2001)](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A02018L2001-20240716)
 - Genomförandeförordningar
-  - [Verifiering av hållbarhet, minskade GHG-utsläpp, ILUC (2022/996) ](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022R0996-20250224)
+  - [Verifiering av hållbarhet, minskade GHG-utsläpp, ILUC (2022/996) ](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A02022R0996-20250224)
   - [Verifiering av skogsbränsle (2022:2448)](https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:32022R2448)
 - Delegerade akter
   - [GHG-beräkning RCF och RFNBO (2023/1185)](https://eur-lex.europa.eu/eli/reg_del/2023/1185/oj/eng)
