@@ -2,6 +2,8 @@
 
 ## EU
 
+### Lagstiftning
+
 - [ETS-direktivet 2003/87/EC](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A02003L0087-20240301)
 
 - Genomförandeförordningar
@@ -19,16 +21,18 @@
   - [KN-koder (2658/87)](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A01987R2658-20260101)
   - [Prodcom-koder (860/2010)](https://eur-lex.europa.eu/eli/reg/2010/860/oj?eliuri=eli%3Areg%3A2010%3A860%3Aoj&locale=sv)
 
-- Information
-  - [Information EU ETS](https://climate.ec.europa.eu/eu-action/carbon-markets/eu-emissions-trading-system-eu-ets_en)
-  - [Information: monitoring, reporting and verifying](https://climate.ec.europa.eu/sites-0/emission-trading-system-mrv-reporting_en)
+### Information
 
-- Verktyg
-  - [EU ETS Reporting Tool (ERT)](https://ets-reporting.ec.europa.eu/screen/home)
-  - [Unionsregistret](https://union-registry.ec.europa.eu/ar/#/SE) Använd QR-kod för MFA - [Manualer](https://climate.ec.europa.eu/emission-trading-system/registry-system_en)
-  - [EU Login](https://ecas.ec.europa.eu/cas/login)
-  - [SEED - Verifiering av registrerade punktskatteuppgifter](https://ec.europa.eu/taxation_customs/dds2/seed/seed_consultation.jsp?Lang=sv)
-  - [Karta för EPRTR-ID](https://industry.eea.europa.eu/industrial-emissions/explore-data-on-the-map)
+- [Information EU ETS](https://climate.ec.europa.eu/eu-action/carbon-markets/eu-emissions-trading-system-eu-ets_en)
+- [Information: monitoring, reporting and verifying](https://climate.ec.europa.eu/sites-0/emission-trading-system-mrv-reporting_en)
+
+### Verktyg
+
+- [EU ETS Reporting Tool (ERT)](https://ets-reporting.ec.europa.eu/screen/home)
+- [Unionsregistret](https://union-registry.ec.europa.eu/ar/#/SE) Använd QR-kod för MFA - [Manualer](https://climate.ec.europa.eu/emission-trading-system/registry-system_en)
+- [EU Login](https://ecas.ec.europa.eu/cas/login)
+- [SEED - Verifiering av registrerade punktskatteuppgifter](https://ec.europa.eu/taxation_customs/dds2/seed/seed_consultation.jsp?Lang=sv)
+- [Karta för EPRTR-ID](https://industry.eea.europa.eu/industrial-emissions/explore-data-on-the-map)
 
 ## Sverige
 
@@ -42,7 +46,6 @@
 - [Hänvisningsvärden avfall](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Forms/AllItems.aspx?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden&p=true&ga=1)
 - [Hänvisningsvärden RT-flis]()
 - [NIR-värden 2026-02-10](https://idenoab.sharepoint.com/:x:/r/sites/Uppdrag/_layouts/15/Doc.aspx?sourcedoc=%7BCFE1ECAC-0431-483B-B1FD-D720BA5E82E9%7D&file=ef-bilaga-klimat-2026-02-10%20(JR-not).xlsx&action=default&mobileredirect=true)
-- 
 
 ## Naturvårdsverket
 
@@ -55,10 +58,17 @@
   - [Värmevärden för olika energivaror](https://pxexternal.energimyndigheten.se/pxweb/sv/Energimyndighetens_statistikdatabas/Energimyndighetens_statistikdatabas__Officiell_energistatistik__Varmevarden_och_densitet/Varmevarden6.px/)
   - [Densitet i kg för olika energivaror vid 15 grader Celsius](https://pxexternal.energimyndigheten.se/pxweb/sv/Energimyndighetens_statistikdatabas/Energimyndighetens_statistikdatabas__Officiell_energistatistik__Varmevarden_och_densitet/Densitet.px/)
 
+## Andra länder
+
+### Norge
+
+- [Miljødirektoratet Klimakvoter](https://www.miljodirektoratet.no/ansvarsomrader/klima/klimakvoter/)
+
+### Danmark
+
+- [EU's CO2-kvoteordning](https://ens.dk/globalt-samarbejde/eus-co2-kvoteordning)
+
 ## Övrigt
 
 - [Pris EUA Futures på ICE](https://www.ice.com/products/197/EUA-Futures/data?marketId=6482028)
-- Norge
-  - [Miljødirektoratet Klimakvoter](https://www.miljodirektoratet.no/ansvarsomrader/klima/klimakvoter/)
-- Danmark
-  - [EU's CO2-kvoteordning](https://ens.dk/globalt-samarbejde/eus-co2-kvoteordning)
+
