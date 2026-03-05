@@ -6,6 +6,7 @@
 
 - [Lag (2010:601) om ursprungsgarantier för energi](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2010601-om-ursprungsgarantier-for-energi_sfs-2010-601/)
 - [Förordning (2025:1258) om ursprungsgarantier för energi](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20251258-om-ursprungsgarantier-for_sfs-2025-1258/)
+- [Statens energimynd­ighets föreskrift­er (STEMFS 2025:8) om ursprungsg­arantier för energi](https://energimyndigheten.a-w2m.se/Arkitektkopia/ViewTemplate?tid=36b97be6edbd43f281951666d3f373e9)
 
 ### Elcertifikat
 
