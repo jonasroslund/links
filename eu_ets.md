@@ -43,9 +43,9 @@
 ## Egen information
 
 - [EU ETS huvudmapp](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
-- [Hänvisningsvärden avfall](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Forms/AllItems.aspx?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden&p=true&ga=1)
-- [Hänvisningsvärden RT-flis]()
-- [NIR-värden 2026-02-10](https://idenoab.sharepoint.com/:x:/r/sites/Uppdrag/_layouts/15/Doc.aspx?sourcedoc=%7BCFE1ECAC-0431-483B-B1FD-D720BA5E82E9%7D&file=ef-bilaga-klimat-2026-02-10%20(JR-not).xlsx&action=default&mobileredirect=true)
+- [Hänvisningsvärden avfall](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Forms/AllItems.aspx?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden&p=true&ga=1) [:file_folder:](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
+- [Hänvisningsvärden RT-flis](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden%2FRT%2Dflis&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
+- [NIR-värden 2026-02-10](https://idenoab.sharepoint.com/:x:/r/sites/Uppdrag/_layouts/15/Doc.aspx?sourcedoc=%7BCFE1ECAC-0431-483B-B1FD-D720BA5E82E9%7D&file=ef-bilaga-klimat-2026-02-10%20(JR-not).xlsx&action=default&mobileredirect=true) [:file_folder:](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2F2025%2FNIR%2Dv%C3%A4rden&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
 
 ## Naturvårdsverket
 
