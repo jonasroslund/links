@@ -36,28 +36,33 @@
 
 ## Sverige
 
+### Lagstiftning
+
 - [ETS-lagen (2020:1173)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20201173-om-vissa-utslapp-av-vaxthusgaser_sfs-2020-1173/)
 - [ETS-förordningen (2020:1180)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20201180-om-vissa-utslapp-av_sfs-2020-1180/)
-- [SWEDACs ackrediteringsregister](https://search.swedac.se/sv/ackrediteringar?mode3_accarea_l1=Verifiering+av+v%C3%A4xthusgaser+EU-ETS+%28SS-EN+ISO%2FIEC+17029%3A2019%2BISO+14065%3A2020%29&mode3_accarea_l2=&mode3_accstd=&mode3_docs=&mode3_typeofbusiness=)
 
-## Egen information
-
-- [EU ETS huvudmapp](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
-- [Hänvisningsvärden avfall](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Forms/AllItems.aspx?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden&p=true&ga=1) [:file_folder:](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
-- [Hänvisningsvärden RT-flis](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden%2FRT%2Dflis&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
-- [NIR-värden 2026-02-10](https://idenoab.sharepoint.com/:x:/r/sites/Uppdrag/_layouts/15/Doc.aspx?sourcedoc=%7BCFE1ECAC-0431-483B-B1FD-D720BA5E82E9%7D&file=ef-bilaga-klimat-2026-02-10%20(JR-not).xlsx&action=default&mobileredirect=true) [:file_folder:](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2F2025%2FNIR%2Dv%C3%A4rden&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
-
-## Naturvårdsverket
+### Naturvårdsverket
 
 - [Referensbibliotek utsläppshandel](https://www.naturvardsverket.se/vagledning-och-stod/utslappshandel/referensbibliotek/)
 - [E-tjänster för utsläppshandel](https://www.naturvardsverket.se/vagledning-och-stod/utslappshandel/stationara-anlaggningar/lamna-in-handlingar/)
 - [Statistik och uppföljning](https://www.naturvardsverket.se/vagledning-och-stod/utslappshandel/statistik-och-uppfoljning/)
 
-## Energimyndigheten
+### Energimyndigheten
 
 - [Energimyndighetens statistikdatabas](https://pxexternal.energimyndigheten.se/pxweb/sv/Energimyndighetens_statistikdatabas/)
   - [Värmevärden för olika energivaror](https://pxexternal.energimyndigheten.se/pxweb/sv/Energimyndighetens_statistikdatabas/Energimyndighetens_statistikdatabas__Officiell_energistatistik__Varmevarden_och_densitet/Varmevarden6.px/)
   - [Densitet i kg för olika energivaror vid 15 grader Celsius](https://pxexternal.energimyndigheten.se/pxweb/sv/Energimyndighetens_statistikdatabas/Energimyndighetens_statistikdatabas__Officiell_energistatistik__Varmevarden_och_densitet/Densitet.px/)
+
+### Övriga aktörer
+
+- [SWEDACs ackrediteringsregister](https://search.swedac.se/sv/ackrediteringar?mode3_accarea_l1=Verifiering+av+v%C3%A4xthusgaser+EU-ETS+%28SS-EN+ISO%2FIEC+17029%3A2019%2BISO+14065%3A2020%29&mode3_accarea_l2=&mode3_accstd=&mode3_docs=&mode3_typeofbusiness=)
+
+### Egen information
+
+- [EU ETS huvudmapp](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
+- [Hänvisningsvärden avfall](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Forms/AllItems.aspx?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden&p=true&ga=1) [:file_folder:](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
+- [Hänvisningsvärden RT-flis](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2FH%C3%A4nvisningsv%C3%A4rden%2FRT%2Dflis&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
+- [NIR-värden 2026-02-10](https://idenoab.sharepoint.com/:x:/r/sites/Uppdrag/_layouts/15/Doc.aspx?sourcedoc=%7BCFE1ECAC-0431-483B-B1FD-D720BA5E82E9%7D&file=ef-bilaga-klimat-2026-02-10%20(JR-not).xlsx&action=default&mobileredirect=true) [:file_folder:](https://idenoab-my.sharepoint.com/shared?id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FEU%20ETS%2F2025%2FNIR%2Dv%C3%A4rden&listurl=https%3A%2F%2Fidenoab%2Esharepoint%2Ecom%2Fsites%2FUppdrag%2FDelade%20dokument)
 
 ## Andra länder
 
