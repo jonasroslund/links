@@ -51,6 +51,7 @@
 
 - [Referensbibliotek utsläppshandel](https://www.naturvardsverket.se/vagledning-och-stod/utslappshandel/referensbibliotek/)
 - [E-tjänster för utsläppshandel](https://www.naturvardsverket.se/vagledning-och-stod/utslappshandel/stationara-anlaggningar/lamna-in-handlingar/)
+- [Statistik och uppföljning](https://www.naturvardsverket.se/vagledning-och-stod/utslappshandel/statistik-och-uppfoljning/)
 
 ## Energimyndigheten
 
