@@ -29,8 +29,9 @@
 ### MSB
 
 - [Ämnesområde Informationssäkerhet, cybersäkerhet och säkra kommunikationer](https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/)
+- [Termbank för informationssäkerhet](https://termbank-informationssakerhet.msb.se/)
 - Verktyg
-  - [MSB:s metodstöd för informationssäkerhetsarbete](https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/arbeta-systematiskt-med-informationssakerhet-och-cybersakerhet/metodstod-for-informationssakerhetsarbete/)
+  - [Metodstöd för informationssäkerhetsarbete](https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/arbeta-systematiskt-med-informationssakerhet-och-cybersakerhet/metodstod-for-informationssakerhetsarbete/)
   - [Cybersäkerhetskollen](https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/arbeta-systematiskt-med-informationssakerhet-och-cybersakerhet/cybersakerhetskollen/)
   - [Övning - Informationssäkerhet för ledningen](https://www.msb.se/sv/publikationer/ovning--informationssakerhet-for-ledningen/)
 - Webbinarier
