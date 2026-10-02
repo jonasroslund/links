@@ -8,6 +8,7 @@
   - [Verifiering av skogsbränsle (2022:2448)](https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:32022R2448)
 - Delegerade akter
   - [GHG-beräkning RCF och RFNBO (2023/1185)](https://eur-lex.europa.eu/eli/reg_del/2023/1185/oj/eng)
+  - [Andel biodrivmedel och biogas för transport vid samprocessning (2023/1640)](https://eur-lex.europa.eu/eli/reg_del/2023/1640/oj/eng)
 - [Frivilliga certifieringssystem](https://energy.ec.europa.eu/topics/renewable-energy/bioenergy/voluntary-schemes_en)
 - Underlagsrapporter
   - [JRC-rapport Solid and gaseous bioenergy pathways - input values and GHG emissions](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Gemensamt/HBK/2026/GHG-ber%C3%A4kning/JRC-rapport/solid%20and%20gaseous%20bioenergy%20pathways-LD1A27215ENN.pdf) [:file_folder:](https://idenoab.sharepoint.com/sites/Uppdrag/Delade%20dokument/Forms/AllItems.aspx?FolderCTID=0x01200098C5D5EA12791C4D851C1F8659809098&id=%2Fsites%2FUppdrag%2FDelade%20dokument%2FGemensamt%2FHBK%2F2026%2FGHG%2Dber%C3%A4kning%2FJRC%2Drapport)
