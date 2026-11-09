@@ -4,3 +4,4 @@
 - [Hållbara bränslen](hållbara_bränslen.md)
 - [Ursprungsgarantier och elcertifikat](ursprungsgarantier_elcertifikat.md)
 - [Cybersäkerhet och informationssäkerhet](cybersäkerhet_informationssäkerhet.md)
+- [Strategisk reserv](strategisk_reserv.md)
