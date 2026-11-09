@@ -4,7 +4,7 @@
 
 ### Lagstiftning
 
-- [Elmarknadsförordningen (EU) 2019/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A32019R0943) - kapitel IV om resurstillräcklighet och kapacitetsmekanismer (art. 20–27)
+- [Elmarknadsförordningen (EU) 2019/943](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A02019R0943-20240716) - kapitel IV om resurstillräcklighet och kapacitetsmekanismer (art. 20–27)
   - [Ändringsförordning (EU) 2024/1747 om förbättrad utformning av unionens elmarknad](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A32024R1747)
 - [Elmarknadsdirektivet (EU) 2019/944](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A32019L0944)
 
