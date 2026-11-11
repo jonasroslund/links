@@ -45,7 +45,8 @@
 
 ## Övriga
 
-- Drivkraft Sverige
+- Profu
+  - [Guide: Växthusgasberäkning för RT-flis och verksamhetsavfall](h Drivkraft Sverige)
   - [Beräkningsfaktorer drivmedel](https://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/Drivkraft%20Sverige/Ber%C3%A4kningsfaktorer/Berakningsfaktorer-2025_2.pdf?CT=1773395561080&OR=ItemsView) [:file_folder:](ttps://idenoab.sharepoint.com/sites/Delat/Shared%20Documents/Bibliotek/Drivkraft%20Sverige/Ber%C3%A4kningsfaktorer/)
 - Finland
   - [A-länder](https://energiavirasto.fi/sv/hallbarhetskriterier#lander_som_uppfylls_hallbarhetskriterier_for_skogsbiomassa)
